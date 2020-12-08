@@ -1,0 +1,7 @@
+C:\Users\CONSUMER\source\repos\InTents\bin\Debug\InTents.exe.config
+C:\Users\CONSUMER\source\repos\InTents\bin\Debug\InTents.exe
+C:\Users\CONSUMER\source\repos\InTents\bin\Debug\InTents.pdb
+C:\Users\CONSUMER\source\repos\InTents\obj\Debug\InTents.csprojAssemblyReference.cache
+C:\Users\CONSUMER\source\repos\InTents\obj\Debug\InTents.csproj.CoreCompileInputs.cache
+C:\Users\CONSUMER\source\repos\InTents\obj\Debug\InTents.exe
+C:\Users\CONSUMER\source\repos\InTents\obj\Debug\InTents.pdb
